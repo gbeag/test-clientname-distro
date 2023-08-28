@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "test-servername-1.12.2",
-      "name": "test-servername (Minecraft 1.12.2)",
-      "description": "test-servername Running Minecraft 1.12.2",
+      "name": "test-servername (1.12.2 버전)",
+      "description": "test-servername (1.12.2 버전)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
